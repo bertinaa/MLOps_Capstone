@@ -293,3 +293,4 @@ with tabs[7]:
     st.plotly_chart(px.bar(x=["Current Revenue","Projected Revenue"], y=[current_revenue,new_revenue],
                            title="Revenue Comparison Before & After Campaign", labels={"x":"Scenario","y":"Revenue"}))
 
+
